@@ -9,4 +9,8 @@ MoviePy is suppercharged with two other packages :
         > ImageMagick is free software delivered as a ready-to-run binary distribution or as source code that you may use, copy, modify, and distribute in both open and proprietary applications
     - [ffmpeg](https://www.ffmpeg.org/)
         > FFmpeg is the leading multimedia framework, able to **decode, encode, transcode, mux, demux, stream, filter and play** pretty much anything that humans and machines have created
-    
+
+We used the python module [pillow](https://pypi.org/project/Pillow/) to turn the frame data to an actual image
+
+`pipenv install Pillow`
+
